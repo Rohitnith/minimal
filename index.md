@@ -3,7 +3,7 @@
 ## Machine learning
 
 ## Unsupervised Learning on Purchase Data
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://myspace.ongc.co.in/blogs/purchase_data_ml/entry/Unsupervised_Machine_Learning_ML_for_MM_Purchase_Data_Analysis_of_ONGC_Western_Sector_of_last_Five_Years?lang=en_us)
+[![View on MySpace](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://myspace.ongc.co.in/blogs/purchase_data_ml/entry/Unsupervised_Machine_Learning_ML_for_MM_Purchase_Data_Analysis_of_ONGC_Western_Sector_of_last_Five_Years?lang=en_us)
 
 One of the biggest Integrated Oil & Gas Company is having huge annual procurement to the tune of 3.6 Billion Dollars. Huge amount of data generated while procuring these goods & Services can be useful in re-inventing procurement strategies for consolidation, rationalization and optimization of workload for resource efficiency. In this case study Purchase Data has been processed using traditional Unsupervised Learning techniques of Machine Learning taking inspiration from RFM analysis used typically to gauge customer behaviour based on past data. The main task was to work out materials which can be considered for Centralisation of Purchase considering cumulative contract value, frequency and nos. of location where such material is procured.
 
